@@ -22,6 +22,7 @@ Seeking specialization as a software engineer...
 ### 📫Contacts
 * [LinkedIn](https://www.linkedin.com/in/igorfollador/)
 * [Instagram](https://www.instagram.com/igorfollador/)
+* [+ about me](https://www.follador.dev/)
 
 <!--
 **IgorFollador/IgorFollador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
