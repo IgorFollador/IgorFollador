@@ -4,6 +4,9 @@ I'm Igor Follador, passionate about technology and science!
 
 I live in the northern region of the state of Rio Grande do Sul and am studying Computer Science at URI Erechim College.
 
+I currently work with web development aimed at the ecommerce market and institutional pages, working on the entire flow of fullstack development of new features and deployment. I am very fascinated by the web area and the power of reach that it brings.
+
+Seeking specialization as a software engineer...
 
 ### 💬 Github Stats 
 
