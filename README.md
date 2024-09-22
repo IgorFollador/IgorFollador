@@ -1,15 +1,22 @@
-### Hi dev!
+### Hey there! I'm Igor Follador 👋
 
-I'm Igor Follador, passionate about technology and science!
+I'm a **Computer Scientist** from Rio Grande do Sul, Brazil, passionate about **web** and **mobile development**. I graduated in **Computer Science** from **URI Erechim**, and I'm currently pursuing a specialization in **Fullstack Development** at **FIAP**.
 
-I live in the northern region of the state of Rio Grande do Sul and am studying Computer Science at URI Erechim College.
+### 🚀 What I Do
+I'm all about building efficient, scalable applications, with a focus on solving real-world problems. Here's what I work with:
 
-I currently work with web development aimed at the ecommerce market and institutional pages, working on the entire flow of fullstack development of new features and deployment. I am very fascinated by the web area and the power of reach that it brings.
+- **Backend Development**: PHP (mostly with Laravel) and Node.js (Express)
+- **Frontend Development**: ReactJS (Vite/Next.js)
+- **Mobile Development**: React Native, Flutter
 
-Seeking specialization as a software engineer...
+### 🧑‍💻 My Passions
+I'm a big fan of **Linux** – yeah, I'm one of those people who genuinely believe it’s always the solution. If something goes wrong, I just blame it on Windows! 😜 I'm also diving deeper into **AWS**, combining my love for coding with the challenge of handling infrastructure.
 
-### 💬 Github Stats 
+### 💼 My Work
+- **Waykey**: My tech company that specializes in custom software development, UI/UX prototyping, and tech consultancy. Check it out: [waykey.com.br](https://www.waykey.com.br)
+- **Bodypath**: A project I'm currently working on to help professionals in nutrition and fitness create personalized plans for their clients. Visit: [bodypath.com.br](https://www.bodypath.com.br)
 
+### 💻 GitHub Stats
 <center>
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -19,22 +26,7 @@ Seeking specialization as a software engineer...
 </table>
 </center>
 
-### 📫Contacts
-* [LinkedIn](https://www.linkedin.com/in/igorfollador/)
-* [Instagram](https://www.instagram.com/igorfollador/)
-* [+ about me](https://www.follador.dev/)
-
-<!--
-**IgorFollador/IgorFollador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/igorfollador/)
+- [Instagram](https://www.instagram.com/igorfollador/)
+- [More about me](https://www.follador.dev/)
