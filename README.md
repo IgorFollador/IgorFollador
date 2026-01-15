@@ -16,16 +16,6 @@ I'm a big fan of **Linux** – yeah, I'm one of those people who genuinely belie
 - **Waykey**: My tech company that specializes in custom software development, UI/UX prototyping, and tech consultancy. Check it out: [waykey.com.br](https://www.waykey.com.br)
 - **Bodypath**: A project I'm currently working on to help professionals in nutrition and fitness create personalized plans for their clients. Visit: [bodypath.com.br](https://www.bodypath.com.br)
 
-### 💻 GitHub Stats
-<center>
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-      <td><img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorfollador&hide=html&layout=compact&theme=dracula&langs_count=10" /></td>
-      <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api?username=igorfollador&theme=dracula&show_icons=true" /></td>
-  </tr>  
-</table>
-</center>
-
 ### 🌍 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/igorfollador/)
 - [Instagram](https://www.instagram.com/igorfollador/)
