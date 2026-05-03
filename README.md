@@ -4,8 +4,6 @@ I'm a **Computer Scientist** from Rio Grande do Sul, Brazil 🇧🇷, specialize
 
 Currently, I'm expanding my strategic and technical vision by pursuing an **MBA in Solution Architecture at FIAP**, focusing on designing scalable, resilient, and business-oriented systems.
 
----
-
 ## 🚀 What I Do
 
 I build end-to-end applications, from backend services to user-facing interfaces, always aiming for **scalability, maintainability, and real-world impact**.
@@ -69,11 +67,3 @@ A platform for **nutrition and fitness professionals** to manage and deliver per
 * LinkedIn: https://www.linkedin.com/in/igorfollador/
 * Instagram: https://www.instagram.com/igorfollador/
 * Website: https://www.follador.dev/
-
----
-
-## ⚡ Final Note
-
-I combine a solid academic background in **Computer Science** with practical experience in **full stack development**, and I'm currently advancing towards **Solution Architecture**.
-
-Always open to discussions about **technology, architecture, and building scalable systems**.
