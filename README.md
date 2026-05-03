@@ -1,22 +1,79 @@
-### Hey there! I'm Igor Follador 👋
+# Hey, I'm Igor Follador 👋
 
-I'm a **Computer Scientist** from Rio Grande do Sul, Brazil, passionate about **web** and **mobile development**. I graduated in **Computer Science** from **URI Erechim**, and I'm currently pursuing a specialization in **Fullstack Development** at **FIAP**.
+I'm a **Computer Scientist** from Rio Grande do Sul, Brazil 🇧🇷, specialized in **full stack application development**, with a strong focus on **TypeScript ecosystems** and modern web architectures.
 
-### 🚀 What I Do
-I'm all about building efficient, scalable applications, with a focus on solving real-world problems. Here's what I work with:
+Currently, I'm expanding my strategic and technical vision by pursuing an **MBA in Solution Architecture at FIAP**, focusing on designing scalable, resilient, and business-oriented systems.
 
-- **Backend Development**: PHP (mostly with Laravel) and Node.js (Express)
-- **Frontend Development**: ReactJS (Vite/Next.js)
-- **Mobile Development**: React Native, Flutter
+---
 
-### 🧑‍💻 My Passions
-I'm a big fan of **Linux** – yeah, I'm one of those people who genuinely believe it’s always the solution. If something goes wrong, I just blame it on Windows! 😜 I'm also diving deeper into **AWS**, combining my love for coding with the challenge of handling infrastructure.
+## 🚀 What I Do
 
-### 💼 My Work
-- **Waykey**: My tech company that specializes in custom software development, UI/UX prototyping, and tech consultancy. Check it out: [waykey.com.br](https://www.waykey.com.br)
-- **Bodypath**: A project I'm currently working on to help professionals in nutrition and fitness create personalized plans for their clients. Visit: [bodypath.com.br](https://www.bodypath.com.br)
+I build end-to-end applications, from backend services to user-facing interfaces, always aiming for **scalability, maintainability, and real-world impact**.
 
-### 🌍 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/igorfollador/)
-- [Instagram](https://www.instagram.com/igorfollador/)
-- [More about me](https://www.follador.dev/)
+### 🧩 Core Stack
+
+* **Backend**: Node.js (Express), PHP (Laravel)
+* **Frontend**: React (Vite / Next.js)
+* **Mobile**: Flutter, React Native
+
+### ⚙️ What I Care About
+
+* Clean and maintainable code
+* Well-defined architectures
+* API design and system communication
+* Performance and scalability
+* Real business problem solving
+
+---
+
+## 🧠 Architecture Journey
+
+While I have a strong hands-on development background, I'm currently evolving towards **solution architecture**, focusing on:
+
+* System design and trade-offs
+* Distributed systems and integrations
+* Event-driven architectures
+* Multi-tenant systems
+* Cloud and infrastructure (AWS & Docker)
+
+---
+
+## 💼 Projects & Work
+
+### 🧩 Waykey
+
+A technology company focused on **custom software development, system architecture, and tech consulting**.
+
+🔗 https://www.waykey.com.br
+
+---
+
+### 🏋️ Bodypath
+
+A platform for **nutrition and fitness professionals** to manage and deliver personalized plans to their clients.
+
+🔗 https://www.bodypath.com.br
+
+---
+
+## 🐧 Beyond Code
+
+* Linux enthusiast (yes, I’ll probably blame Windows 😄)
+* Interested in both **software and infrastructure**
+* Always looking to understand systems at a deeper level
+
+---
+
+## 🌍 Connect with me
+
+* LinkedIn: https://www.linkedin.com/in/igorfollador/
+* Instagram: https://www.instagram.com/igorfollador/
+* Website: https://www.follador.dev/
+
+---
+
+## ⚡ Final Note
+
+I combine a solid academic background in **Computer Science** with practical experience in **full stack development**, and I'm currently advancing towards **Solution Architecture**.
+
+Always open to discussions about **technology, architecture, and building scalable systems**.
